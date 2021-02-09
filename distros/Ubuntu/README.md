@@ -1,24 +1,30 @@
-# linux-layout/Ubuntu
+# Ubuntu
 
 [https://help.ubuntu.com/community/LinuxFilesystemTreeOverview](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)
 
-## Todo
+## Index
 
-- [ ] `/bin`
-- [ ] `/boot`
-- [ ] `/dev`
-- [ ] `/etc`
-- [ ] `/home`
-- [ ] `/lib`
-- [ ] `/media`
-- [ ] `/mnt`
-- [ ] `/opt`
-- [ ] `/proc`
-- [ ] `/root`
-- [ ] `/run`
-- [ ] `/sbin`
-- [ ] `/srv`
-- [ ] `/sys`
-- [ ] `/tmp`
-- [ ] `/usr`
-- [ ] `/var`
+- [`/bin`](bin/)
+- `/dev`
+- `/lib`
+- `/libx32`
+- `/mnt`
+- `/root`
+- `/snap`
+- `/sys`
+- `/var`
+- `/boot`
+- `/etc`
+- `/lib32`
+- `/lost+found`
+- `/opt`
+- `/run`
+- `/srv`
+- `/tmp`
+- `/cdrom`
+- `/home`
+- `/lib64`
+- `/media`
+- `/proc`
+- `/sbin`
+- `/usr`
